@@ -16,17 +16,17 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <IconPhoneCall /> &nbsp; (123) -456-789
+                  <IconPhoneCall /> &nbsp; +212604034421
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                admajd2007@gmail.com"
                 >
                   <IconMail />
-                  &nbsp; carrental@gmail.com
+                  &nbsp; admajd2007@gmail.com
                 </a>
               </li>
 
@@ -35,9 +35,8 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
                 >
-                  Design by XpeedStudio
+                  Design by MajdAd
                 </a>
               </li>
             </ul>
